@@ -1,0 +1,38 @@
+# --- Binários e Objetos de Compilação ---
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+bin/
+build/
+obj/
+
+# --- Arquivos de IDEs e Editores ---
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+
+# --- Arquivos do Sistema ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# --- Logs e Arquivos temporários ---
+*.log
+*.tmp
+*.bak
+
+# --- Bibliotecas e Dependências (se você as baixar localmente) ---
+# Caso você use vcpkg ou submodulos que não devem ser versionados:
+external/
+deps/
+
+# --- Específicos do seu projeto ---
+# Se o seu programa cria algum arquivo de log ou config na raiz, ignore-o aqui:
+config.json
