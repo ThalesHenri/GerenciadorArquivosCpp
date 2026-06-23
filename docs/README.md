@@ -67,5 +67,6 @@ Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request se encontrar 
 Desenvolvido com C++, café, energético e cerveja . ☕
 
 
-![alt text](image.png)
+docs/image.png
+
 ScreenShot do menu principal
