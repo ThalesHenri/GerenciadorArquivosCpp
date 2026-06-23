@@ -51,6 +51,7 @@ make config=release
 
 # Executar
 ./bin/GerenciadorMestre
+```
 
 🛡️ Segurança e Privacidade
 
